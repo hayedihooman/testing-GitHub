@@ -9,6 +9,10 @@ This is line one
 
 This is line three
 
+New changes Done!
+*************************
+***************
+
 This is added in master branch
 
 This is deleted in master branch twice
