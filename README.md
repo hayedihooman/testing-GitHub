@@ -4,9 +4,15 @@ This Repo is created for testing GitHub
 
 This section is going to discuss about the proposal of Desktop Application Course
 
+
 This is line one
 
-This is for temporary change
+This is line three
 
-This is line two
+This is added in master branch
+
+This is deleted in master branch twice
+
+This is added in master branch three times
+
 
